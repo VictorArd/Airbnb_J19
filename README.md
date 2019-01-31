@@ -13,7 +13,7 @@
       <li>Strolls</li>
     </ul>
 
-  <li>Connexion de 'Cities' dans 'Dogs' | Cities' dans 'Dogsitters' | 'Cities', 'Dogs', 'Dogsitters' dans 'Strolls</li>
+  <li>Connexion de 'Cities' dans 'Dogs' | Cities' dans 'Dogsitters' | 'Cities', 'Dogs', 'Dogsitters' dans 'Strolls'</li>
   <li>Création de 3 seeds</li>
     <ul>
       <li>Création de 2 Villes</li>
