@@ -1,24 +1,25 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Projet : Airbnb pour chien</h1>
 
-Things you may want to cover:
+<h2>Création de BD pour un Airbnb clone pour chien</h2>
 
-* Ruby version
 
-* System dependencies
+<ul>
+  <li>Création de 4 BD</li>
+    <ul>
+      <li>Cities</li>
+      <li>Dogs</li>
+      <li>Dogsitters</li>
+      <li>Strolls</li>
+    </ul>
 
-* Configuration
+  <li>Connexion de 'Cities' dans 'Dogs' | Cities' dans 'Dogsitters' | 'Cities', 'Dogs', 'Dogsitters' dans 'Strolls</li>
+  <li>Création de 3 seeds</li>
+    <ul>
+      <li>Création de 2 Villes</li>
+      <li>Création de 5 chiens et 5 Gardes chien</li>
+      <li>Création de 3 balades</li>
+    </ul>
+</ul>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  <img src="https://www.thehackingproject.org/packs/packs/static_pages/assets/images/logo_black-3d6bec995368618a7e9f44536410ae0a.png" alt="logoTHP">
